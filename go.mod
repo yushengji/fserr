@@ -1,4 +1,4 @@
-module git.sxidc.com/service-supports/fserr
+module github.com/yushengji/goerr
 
 go 1.21
 
